@@ -1,0 +1,12 @@
+{
+  "name": "javascript-drum-kit",
+  "version": "1.0.0",
+  "description": "Javascript Drum kit written in javascript",
+  "main": "/src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve":""
+  },
+  "author": "Benjamin",
+  "license": "ISC"
+}
